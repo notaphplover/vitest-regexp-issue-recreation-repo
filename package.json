@@ -1,0 +1,21 @@
+{
+  "name": "vitest-regexp-issue-recreation-repo",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "inversify": "7.10.6",
+    "@inversifyjs/core": "9.1.1"
+  },
+  "devDependencies": {
+    "@inversifyjs/foundation-typescript-config": "0.1.1",
+    "@types/node": "24.1.0",
+    "@vitest/coverage-v8": "4.0.15",
+    "typescript": "~5.8.3",
+    "unplugin-swc": "1.5.9",
+    "vitest": "4.0.15"
+  },
+  "packageManager": "pnpm@10.25.0"
+}
